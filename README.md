@@ -2,4 +2,4 @@
 ---
 
 
-- 🌱 I’m currently learning Python and Solidity
+- 🌱 I’m currently learning Python
