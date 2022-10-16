@@ -2,4 +2,4 @@
 ---
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Golang and Linux
