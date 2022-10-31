@@ -1,4 +1,4 @@
 ### Hi there 👋
 ---
 
-- 🌱 I’m currently learning Python, Golang, Rust and Linux
+- 🌱 I’m currently learning Python, Golang, C++ and Linux
