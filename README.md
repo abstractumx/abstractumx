@@ -1,5 +1,5 @@
 ### Hi there 👋
 ---
 
-- 🌱 I’m currently learning Python and Linux & Cyber
+- 🌱 I’m currently learning Python and Linux
 - ☁️ G-Fan
